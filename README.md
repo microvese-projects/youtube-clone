@@ -45,10 +45,8 @@ This project was created in HTML and CSS.
 
 ### Key Features <a name="key-features"></a>
 I plan to implement the following features: 
-- **[View Box]** 
+- **[View_Box]** 
 This is an area that shows the video controls of a specific youtube video.
-- **[Playlist]**
-This section provides a list of video suggestions that a use can view.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
