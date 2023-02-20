@@ -77,6 +77,16 @@ main {
   padding-right: 15px;
 }
 
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container h1 {
+  font-size: 1rem;
+}
+
 /* video */
 .video {
   margin: auto;
