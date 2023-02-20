@@ -81,5 +81,13 @@ main {
 .video {
   margin: auto;
   margin-top: 10px;
-  width: fit-content;
+  width: 100vw;
+  height: 400px;
+}
+
+@media (min-width: 780px) {
+  .video {
+    width: 500px;
+    height: 350px;
+  }
 }
