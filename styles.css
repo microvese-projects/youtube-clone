@@ -13,10 +13,12 @@ main {
 }
 
 /* header */
-.header {
+.navbar {
   padding: 10px;
   display: flex;
   align-items: center;
+  margin: 0 auto;
+  list-style: none;
 }
 
 .logo {
