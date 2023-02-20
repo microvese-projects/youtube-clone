@@ -15,6 +15,8 @@ main {
 /* header */
 .header {
   padding: 10px;
+  display: flex;
+  align-items: center;
 }
 
 .logo {
@@ -24,6 +26,8 @@ main {
 .youtube-logo {
   display: flex;
   align-items: center;
+  margin-left: 10px;
+  margin-right: auto;
 }
 
 .youtube-logo h2 {
@@ -32,16 +36,6 @@ main {
 
 .profile {
   height: 40px;
-}
-
-.header {
-  display: flex;
-  align-items: center;
-}
-
-.youtube-logo {
-  margin-left: 10px;
-  margin-right: auto;
 }
 
 .search-bar {
